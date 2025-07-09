@@ -608,7 +608,7 @@ body { background: var(--white); }
   padding: 30px;
   align-items: center;
   gap: 30px;
-  height: 380px;
+  height: 300px;
   width: 300px;
   border-radius: 20px;
   box-shadow: 0 0 10px rgba(0, 0,0,.3);
@@ -631,6 +631,7 @@ body { background: var(--white); }
 .content .containera .aboutus p{
   text-align: justify;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .content .containera .aboutus .email{
